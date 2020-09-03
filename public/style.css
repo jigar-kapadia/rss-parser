@@ -1,0 +1,28 @@
+
+.colorblue{
+ background-color: #293987;   
+}
+
+.user-menu li i {
+    color: white;
+}
+
+.mr-5m{
+    margin-right: 5rem!important;
+}
+
+.w-30{
+    width: 35%;
+}
+
+.word-break{
+    word-break: break-word;
+    word-spacing: 2px;
+}
+
+.creatorButton{
+    color: #293987 !important; 
+    border-color: #293987 !important;
+    background-color: white;
+    
+}
